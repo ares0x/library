@@ -1,4 +1,4 @@
-package logs
+package zap
 
 import (
     "github.com/natefinch/lumberjack"

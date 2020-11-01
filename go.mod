@@ -6,6 +6,7 @@ require (
 	github.com/HdrHistogram/hdrhistogram-go v0.9.0 // indirect
 	github.com/codahale/hdrhistogram v0.9.0 // indirect
 	github.com/coreos/etcd v3.3.13+incompatible
+	github.com/fsnotify/fsnotify v1.4.9
 	github.com/gin-gonic/gin v1.6.3
 	github.com/go-redis/redis v6.15.9+incompatible
 	github.com/go-sql-driver/mysql v1.5.0 // indirect
